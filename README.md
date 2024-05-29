@@ -1,16 +1,16 @@
-## Hi there 👋
+ ## -Boas vindas ao meu perfil 👋
 
-<!--
-**Linefernanda/Linefernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Aline
 
-Here are some ideas to get you started:
+Eu sou estudante na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem javascript
+
+Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+## para você entrar em contato comigo 💙💙
+
+00001098119265sp@al.educacao.sp.gov.br
+
+@alinefernanda
+
